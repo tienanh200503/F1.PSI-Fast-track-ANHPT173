@@ -1,4 +1,4 @@
-package com.tienanh.anhpt173.user.repository;
+package com.tienanh.anhpt173.refreshToken.repository;
 
 import com.tienanh.anhpt173.user.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;

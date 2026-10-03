@@ -1,5 +1,4 @@
-package com.tienanh.anhpt173.user.validation;
-import com.tienanh.anhpt173.user.validation.UserValidator;
+package com.tienanh.anhpt173.auth.validation;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 public class UserValidatorTest {
